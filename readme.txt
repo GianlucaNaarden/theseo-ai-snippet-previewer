@@ -1,5 +1,5 @@
 === TheSEO AI Snippet Previewer ===
-Contributors: theseo, mansotti
+Contributors: theseo
 Tags: seo, ai, content, schema, structured data
 Requires at least: 6.2
 Tested up to: 6.8
