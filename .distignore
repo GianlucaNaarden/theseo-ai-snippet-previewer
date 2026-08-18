@@ -1,0 +1,6 @@
+# Bestanden die niet mee hoeven naar de WordPress-pluginmap.
+.git
+.gitignore
+.distignore
+.github
+README.md
